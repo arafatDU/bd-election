@@ -1,0 +1,2896 @@
+[
+  {
+    "id": "Seat-1",
+    "name": "Barguna Seat 1",
+    "division": "Barishal",
+    "district": "Barguna",
+    "upazilas": [
+      "Amtali",
+      "Bamna"
+    ]
+  },
+  {
+    "id": "Seat-2",
+    "name": "Barguna Seat 2",
+    "division": "Barishal",
+    "district": "Barguna",
+    "upazilas": [
+      "Barguna Sadar",
+      "Betagi"
+    ]
+  },
+  {
+    "id": "Seat-3",
+    "name": "Barguna Seat 3",
+    "division": "Barishal",
+    "district": "Barguna",
+    "upazilas": [
+      "Patharghata"
+    ]
+  },
+  {
+    "id": "Seat-4",
+    "name": "Barguna Seat 4",
+    "division": "Barishal",
+    "district": "Barguna",
+    "upazilas": [
+      "Taltali",
+      "Muladi"
+    ]
+  },
+  {
+    "id": "Seat-5",
+    "name": "Barishal Seat 5",
+    "division": "Barishal",
+    "district": "Barishal",
+    "upazilas": [
+      "Babuganj",
+      "Agailjhara"
+    ]
+  },
+  {
+    "id": "Seat-6",
+    "name": "Barishal Seat 6",
+    "division": "Barishal",
+    "district": "Barishal",
+    "upazilas": [
+      "Barisal Sadar"
+    ]
+  },
+  {
+    "id": "Seat-7",
+    "name": "Barishal Seat 7",
+    "division": "Barishal",
+    "district": "Barishal",
+    "upazilas": [
+      "Bakerganj",
+      "Banaripara"
+    ]
+  },
+  {
+    "id": "Seat-8",
+    "name": "Barishal Seat 8",
+    "division": "Barishal",
+    "district": "Barishal",
+    "upazilas": [
+      "Gaurnadi",
+      "Hizla"
+    ]
+  },
+  {
+    "id": "Seat-9",
+    "name": "Barishal Seat 9",
+    "division": "Barishal",
+    "district": "Barishal",
+    "upazilas": [
+      "Mehendiganj"
+    ]
+  },
+  {
+    "id": "Seat-10",
+    "name": "Barishal Seat 10",
+    "division": "Barishal",
+    "district": "Barishal",
+    "upazilas": [
+      "Wazirpur",
+      "Bhola Sadar"
+    ]
+  },
+  {
+    "id": "Seat-11",
+    "name": "Bhola Seat 11",
+    "division": "Barishal",
+    "district": "Bhola",
+    "upazilas": [
+      "Burhanuddin",
+      "Char Fasson"
+    ]
+  },
+  {
+    "id": "Seat-12",
+    "name": "Bhola Seat 12",
+    "division": "Barishal",
+    "district": "Bhola",
+    "upazilas": [
+      "Daulatkhan"
+    ]
+  },
+  {
+    "id": "Seat-13",
+    "name": "Bhola Seat 13",
+    "division": "Barishal",
+    "district": "Bhola",
+    "upazilas": [
+      "Lalmohan",
+      "Manpura"
+    ]
+  },
+  {
+    "id": "Seat-14",
+    "name": "Bhola Seat 14",
+    "division": "Barishal",
+    "district": "Bhola",
+    "upazilas": [
+      "Tazumuddin",
+      "Jhalokati Sadar"
+    ]
+  },
+  {
+    "id": "Seat-15",
+    "name": "Jhalokati Seat 15",
+    "division": "Barishal",
+    "district": "Jhalokati",
+    "upazilas": [
+      "Kathalia"
+    ]
+  },
+  {
+    "id": "Seat-16",
+    "name": "Jhalokati Seat 16",
+    "division": "Barishal",
+    "district": "Jhalokati",
+    "upazilas": [
+      "Nalchity",
+      "Rajapur"
+    ]
+  },
+  {
+    "id": "Seat-17",
+    "name": "Patuakhali Seat 17",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "upazilas": [
+      "Bauphal"
+    ]
+  },
+  {
+    "id": "Seat-18",
+    "name": "Patuakhali Seat 18",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "upazilas": [
+      "Dashmina",
+      "Galachipa"
+    ]
+  },
+  {
+    "id": "Seat-19",
+    "name": "Patuakhali Seat 19",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "upazilas": [
+      "Kalapara",
+      "Mirzaganj"
+    ]
+  },
+  {
+    "id": "Seat-20",
+    "name": "Patuakhali Seat 20",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "upazilas": [
+      "Patuakhali Sadar"
+    ]
+  },
+  {
+    "id": "Seat-21",
+    "name": "Patuakhali Seat 21",
+    "division": "Barishal",
+    "district": "Patuakhali",
+    "upazilas": [
+      "Dumki",
+      "Rangabali"
+    ]
+  },
+  {
+    "id": "Seat-22",
+    "name": "Pirojpur Seat 22",
+    "division": "Barishal",
+    "district": "Pirojpur",
+    "upazilas": [
+      "Bhandaria",
+      "Kaukhali"
+    ]
+  },
+  {
+    "id": "Seat-23",
+    "name": "Pirojpur Seat 23",
+    "division": "Barishal",
+    "district": "Pirojpur",
+    "upazilas": [
+      "Mathbaria"
+    ]
+  },
+  {
+    "id": "Seat-24",
+    "name": "Pirojpur Seat 24",
+    "division": "Barishal",
+    "district": "Pirojpur",
+    "upazilas": [
+      "Nazirpur",
+      "Nesarabad"
+    ]
+  },
+  {
+    "id": "Seat-25",
+    "name": "Pirojpur Seat 25",
+    "division": "Barishal",
+    "district": "Pirojpur",
+    "upazilas": [
+      "Pirojpur Sadar",
+      "Zianagar"
+    ]
+  },
+  {
+    "id": "Seat-26",
+    "name": "Bandarban Seat 26",
+    "division": "Chattogram",
+    "district": "Bandarban",
+    "upazilas": [
+      "Bandarban Sadar"
+    ]
+  },
+  {
+    "id": "Seat-27",
+    "name": "Bandarban Seat 27",
+    "division": "Chattogram",
+    "district": "Bandarban",
+    "upazilas": [
+      "Thanchi",
+      "Lama"
+    ]
+  },
+  {
+    "id": "Seat-28",
+    "name": "Bandarban Seat 28",
+    "division": "Chattogram",
+    "district": "Bandarban",
+    "upazilas": [
+      "Naikhongchhari",
+      "Ali kadam"
+    ]
+  },
+  {
+    "id": "Seat-29",
+    "name": "Bandarban Seat 29",
+    "division": "Chattogram",
+    "district": "Bandarban",
+    "upazilas": [
+      "Rowangchhari"
+    ]
+  },
+  {
+    "id": "Seat-30",
+    "name": "Bandarban Seat 30",
+    "division": "Chattogram",
+    "district": "Bandarban",
+    "upazilas": [
+      "Ruma",
+      "Brahmanbaria Sadar"
+    ]
+  },
+  {
+    "id": "Seat-31",
+    "name": "Brahmanbaria Seat 31",
+    "division": "Chattogram",
+    "district": "Brahmanbaria",
+    "upazilas": [
+      "Ashuganj",
+      "Nasirnagar"
+    ]
+  },
+  {
+    "id": "Seat-32",
+    "name": "Brahmanbaria Seat 32",
+    "division": "Chattogram",
+    "district": "Brahmanbaria",
+    "upazilas": [
+      "Nabinagar"
+    ]
+  },
+  {
+    "id": "Seat-33",
+    "name": "Brahmanbaria Seat 33",
+    "division": "Chattogram",
+    "district": "Brahmanbaria",
+    "upazilas": [
+      "Sarail",
+      "Shahbazpur Town"
+    ]
+  },
+  {
+    "id": "Seat-34",
+    "name": "Brahmanbaria Seat 34",
+    "division": "Chattogram",
+    "district": "Brahmanbaria",
+    "upazilas": [
+      "Kasba"
+    ]
+  },
+  {
+    "id": "Seat-35",
+    "name": "Brahmanbaria Seat 35",
+    "division": "Chattogram",
+    "district": "Brahmanbaria",
+    "upazilas": [
+      "Akhaura",
+      "Bancharampur"
+    ]
+  },
+  {
+    "id": "Seat-36",
+    "name": "Brahmanbaria Seat 36",
+    "division": "Chattogram",
+    "district": "Brahmanbaria",
+    "upazilas": [
+      "Bijoynagar",
+      "Chandpur Sadar"
+    ]
+  },
+  {
+    "id": "Seat-37",
+    "name": "Chandpur Seat 37",
+    "division": "Chattogram",
+    "district": "Chandpur",
+    "upazilas": [
+      "Faridganj"
+    ]
+  },
+  {
+    "id": "Seat-38",
+    "name": "Chandpur Seat 38",
+    "division": "Chattogram",
+    "district": "Chandpur",
+    "upazilas": [
+      "Haimchar",
+      "Haziganj"
+    ]
+  },
+  {
+    "id": "Seat-39",
+    "name": "Chandpur Seat 39",
+    "division": "Chattogram",
+    "district": "Chandpur",
+    "upazilas": [
+      "Kachua",
+      "Matlab Uttar"
+    ]
+  },
+  {
+    "id": "Seat-40",
+    "name": "Chandpur Seat 40",
+    "division": "Chattogram",
+    "district": "Chandpur",
+    "upazilas": [
+      "Matlab Dakkhin"
+    ]
+  },
+  {
+    "id": "Seat-41",
+    "name": "Chandpur Seat 41",
+    "division": "Chattogram",
+    "district": "Chandpur",
+    "upazilas": [
+      "Shahrasti",
+      "Anwara"
+    ]
+  },
+  {
+    "id": "Seat-42",
+    "name": "Chattogram Seat 42",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "upazilas": [
+      "Banshkhali",
+      "Boalkhali"
+    ]
+  },
+  {
+    "id": "Seat-43",
+    "name": "Chattogram Seat 43",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "upazilas": [
+      "Chandanaish"
+    ]
+  },
+  {
+    "id": "Seat-44",
+    "name": "Chattogram Seat 44",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "upazilas": [
+      "Fatikchhari",
+      "Hathazari"
+    ]
+  },
+  {
+    "id": "Seat-45",
+    "name": "Chattogram Seat 45",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "upazilas": [
+      "Lohagara",
+      "Mirsharai"
+    ]
+  },
+  {
+    "id": "Seat-46",
+    "name": "Chattogram Seat 46",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "upazilas": [
+      "Patiya"
+    ]
+  },
+  {
+    "id": "Seat-47",
+    "name": "Chattogram Seat 47",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "upazilas": [
+      "Rangunia",
+      "Raozan"
+    ]
+  },
+  {
+    "id": "Seat-48",
+    "name": "Chattogram Seat 48",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "upazilas": [
+      "Sandwip",
+      "Satkania"
+    ]
+  },
+  {
+    "id": "Seat-49",
+    "name": "Chattogram Seat 49",
+    "division": "Chattogram",
+    "district": "Chattogram",
+    "upazilas": [
+      "Sitakunda"
+    ]
+  },
+  {
+    "id": "Seat-50",
+    "name": "Cumilla Seat 50",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "upazilas": [
+      "Barura",
+      "Brahmanpara"
+    ]
+  },
+  {
+    "id": "Seat-51",
+    "name": "Cumilla Seat 51",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "upazilas": [
+      "Burichong"
+    ]
+  },
+  {
+    "id": "Seat-52",
+    "name": "Cumilla Seat 52",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "upazilas": [
+      "Chandina",
+      "Chauddagram"
+    ]
+  },
+  {
+    "id": "Seat-53",
+    "name": "Cumilla Seat 53",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "upazilas": [
+      "Daudkandi",
+      "Debidwar"
+    ]
+  },
+  {
+    "id": "Seat-54",
+    "name": "Cumilla Seat 54",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "upazilas": [
+      "Homna"
+    ]
+  },
+  {
+    "id": "Seat-55",
+    "name": "Cumilla Seat 55",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "upazilas": [
+      "Comilla Sadar",
+      "Laksam"
+    ]
+  },
+  {
+    "id": "Seat-56",
+    "name": "Cumilla Seat 56",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "upazilas": [
+      "Monohorgonj",
+      "Meghna"
+    ]
+  },
+  {
+    "id": "Seat-57",
+    "name": "Cumilla Seat 57",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "upazilas": [
+      "Muradnagar"
+    ]
+  },
+  {
+    "id": "Seat-58",
+    "name": "Cumilla Seat 58",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "upazilas": [
+      "Nangalkot",
+      "Comilla Sadar South"
+    ]
+  },
+  {
+    "id": "Seat-59",
+    "name": "Cumilla Seat 59",
+    "division": "Chattogram",
+    "district": "Cumilla",
+    "upazilas": [
+      "Titas",
+      "Chakaria"
+    ]
+  },
+  {
+    "id": "Seat-60",
+    "name": "Cox's Bazar Seat 60",
+    "division": "Chattogram",
+    "district": "Cox's Bazar",
+    "upazilas": [
+      "{{198}}''{{199}}"
+    ]
+  },
+  {
+    "id": "Seat-61",
+    "name": "Cox's Bazar Seat 61",
+    "division": "Chattogram",
+    "district": "Cox's Bazar",
+    "upazilas": [
+      "Kutubdia",
+      "Maheshkhali"
+    ]
+  },
+  {
+    "id": "Seat-62",
+    "name": "Cox's Bazar Seat 62",
+    "division": "Chattogram",
+    "district": "Cox's Bazar",
+    "upazilas": [
+      "Ramu",
+      "Teknaf"
+    ]
+  },
+  {
+    "id": "Seat-63",
+    "name": "Cox's Bazar Seat 63",
+    "division": "Chattogram",
+    "district": "Cox's Bazar",
+    "upazilas": [
+      "Ukhia"
+    ]
+  },
+  {
+    "id": "Seat-64",
+    "name": "Cox's Bazar Seat 64",
+    "division": "Chattogram",
+    "district": "Cox's Bazar",
+    "upazilas": [
+      "Pekua",
+      "Feni Sadar"
+    ]
+  },
+  {
+    "id": "Seat-65",
+    "name": "Feni Seat 65",
+    "division": "Chattogram",
+    "district": "Feni",
+    "upazilas": [
+      "Chagalnaiya",
+      "Daganbhyan"
+    ]
+  },
+  {
+    "id": "Seat-66",
+    "name": "Feni Seat 66",
+    "division": "Chattogram",
+    "district": "Feni",
+    "upazilas": [
+      "Parshuram"
+    ]
+  },
+  {
+    "id": "Seat-67",
+    "name": "Feni Seat 67",
+    "division": "Chattogram",
+    "district": "Feni",
+    "upazilas": [
+      "Fhulgazi",
+      "Sonagazi"
+    ]
+  },
+  {
+    "id": "Seat-68",
+    "name": "Khagrachari Seat 68",
+    "division": "Chattogram",
+    "district": "Khagrachari",
+    "upazilas": [
+      "Dighinala"
+    ]
+  },
+  {
+    "id": "Seat-69",
+    "name": "Khagrachari Seat 69",
+    "division": "Chattogram",
+    "district": "Khagrachari",
+    "upazilas": [
+      "Khagrachhari",
+      "Lakshmichhari"
+    ]
+  },
+  {
+    "id": "Seat-70",
+    "name": "Khagrachari Seat 70",
+    "division": "Chattogram",
+    "district": "Khagrachari",
+    "upazilas": [
+      "Mahalchhari",
+      "Manikchhari"
+    ]
+  },
+  {
+    "id": "Seat-71",
+    "name": "Khagrachari Seat 71",
+    "division": "Chattogram",
+    "district": "Khagrachari",
+    "upazilas": [
+      "Matiranga"
+    ]
+  },
+  {
+    "id": "Seat-72",
+    "name": "Khagrachari Seat 72",
+    "division": "Chattogram",
+    "district": "Khagrachari",
+    "upazilas": [
+      "Panchhari",
+      "Ramgarh"
+    ]
+  },
+  {
+    "id": "Seat-73",
+    "name": "Lakshmipur Seat 73",
+    "division": "Chattogram",
+    "district": "Lakshmipur",
+    "upazilas": [
+      "Lakshmipur Sadar",
+      "Raipur"
+    ]
+  },
+  {
+    "id": "Seat-74",
+    "name": "Lakshmipur Seat 74",
+    "division": "Chattogram",
+    "district": "Lakshmipur",
+    "upazilas": [
+      "Ramganj"
+    ]
+  },
+  {
+    "id": "Seat-75",
+    "name": "Lakshmipur Seat 75",
+    "division": "Chattogram",
+    "district": "Lakshmipur",
+    "upazilas": [
+      "Ramgati",
+      "Komol Nagar"
+    ]
+  },
+  {
+    "id": "Seat-76",
+    "name": "Noakhali Seat 76",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "upazilas": [
+      "Noakhali Sadar",
+      "Begumganj"
+    ]
+  },
+  {
+    "id": "Seat-77",
+    "name": "Noakhali Seat 77",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "upazilas": [
+      "Chatkhil"
+    ]
+  },
+  {
+    "id": "Seat-78",
+    "name": "Noakhali Seat 78",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "upazilas": [
+      "Companyganj",
+      "Shenbag"
+    ]
+  },
+  {
+    "id": "Seat-79",
+    "name": "Noakhali Seat 79",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "upazilas": [
+      "Hatia",
+      "Kobirhat"
+    ]
+  },
+  {
+    "id": "Seat-80",
+    "name": "Noakhali Seat 80",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "upazilas": [
+      "Sonaimuri"
+    ]
+  },
+  {
+    "id": "Seat-81",
+    "name": "Noakhali Seat 81",
+    "division": "Chattogram",
+    "district": "Noakhali",
+    "upazilas": [
+      "Suborno Char",
+      "Rangamati Sadar"
+    ]
+  },
+  {
+    "id": "Seat-82",
+    "name": "Rangamati Seat 82",
+    "division": "Chattogram",
+    "district": "Rangamati",
+    "upazilas": [
+      "Belaichhari",
+      "Bagaichhari"
+    ]
+  },
+  {
+    "id": "Seat-83",
+    "name": "Rangamati Seat 83",
+    "division": "Chattogram",
+    "district": "Rangamati",
+    "upazilas": [
+      "Barkal"
+    ]
+  },
+  {
+    "id": "Seat-84",
+    "name": "Rangamati Seat 84",
+    "division": "Chattogram",
+    "district": "Rangamati",
+    "upazilas": [
+      "Juraichhari",
+      "Rajasthali"
+    ]
+  },
+  {
+    "id": "Seat-85",
+    "name": "Rangamati Seat 85",
+    "division": "Chattogram",
+    "district": "Rangamati",
+    "upazilas": [
+      "Kaptai"
+    ]
+  },
+  {
+    "id": "Seat-86",
+    "name": "Rangamati Seat 86",
+    "division": "Chattogram",
+    "district": "Rangamati",
+    "upazilas": [
+      "Langadu",
+      "Nannerchar"
+    ]
+  },
+  {
+    "id": "Seat-87",
+    "name": "Rangamati Seat 87",
+    "division": "Chattogram",
+    "district": "Rangamati",
+    "upazilas": [
+      "Kaukhali",
+      "Dhamrai"
+    ]
+  },
+  {
+    "id": "Seat-88",
+    "name": "Dhaka Seat 88",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilas": [
+      "Dohar"
+    ]
+  },
+  {
+    "id": "Seat-89",
+    "name": "Dhaka Seat 89",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilas": [
+      "Keraniganj",
+      "Nawabganj"
+    ]
+  },
+  {
+    "id": "Seat-90",
+    "name": "Dhaka Seat 90",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilas": [
+      "Savar",
+      "Faridpur Sadar"
+    ]
+  },
+  {
+    "id": "Seat-91",
+    "name": "Faridpur Seat 91",
+    "division": "Dhaka",
+    "district": "Faridpur",
+    "upazilas": [
+      "Boalmari"
+    ]
+  },
+  {
+    "id": "Seat-92",
+    "name": "Faridpur Seat 92",
+    "division": "Dhaka",
+    "district": "Faridpur",
+    "upazilas": [
+      "Alfadanga",
+      "Madhukhali"
+    ]
+  },
+  {
+    "id": "Seat-93",
+    "name": "Faridpur Seat 93",
+    "division": "Dhaka",
+    "district": "Faridpur",
+    "upazilas": [
+      "Bhanga",
+      "Nagarkanda"
+    ]
+  },
+  {
+    "id": "Seat-94",
+    "name": "Faridpur Seat 94",
+    "division": "Dhaka",
+    "district": "Faridpur",
+    "upazilas": [
+      "Charbhadrasan"
+    ]
+  },
+  {
+    "id": "Seat-95",
+    "name": "Faridpur Seat 95",
+    "division": "Dhaka",
+    "district": "Faridpur",
+    "upazilas": [
+      "Sadarpur",
+      "Shaltha"
+    ]
+  },
+  {
+    "id": "Seat-96",
+    "name": "Gazipur Seat 96",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilas": [
+      "Gazipur Sadar-Joydebpur",
+      "Kaliakior"
+    ]
+  },
+  {
+    "id": "Seat-97",
+    "name": "Gazipur Seat 97",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilas": [
+      "Kapasia"
+    ]
+  },
+  {
+    "id": "Seat-98",
+    "name": "Gazipur Seat 98",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilas": [
+      "Sripur",
+      "Kaliganj"
+    ]
+  },
+  {
+    "id": "Seat-99",
+    "name": "Gazipur Seat 99",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilas": [
+      "Tongi",
+      "Gopalganj Sadar"
+    ]
+  },
+  {
+    "id": "Seat-100",
+    "name": "Gopalganj Seat 100",
+    "division": "Dhaka",
+    "district": "Gopalganj",
+    "upazilas": [
+      "Kashiani"
+    ]
+  },
+  {
+    "id": "Seat-101",
+    "name": "Gopalganj Seat 101",
+    "division": "Dhaka",
+    "district": "Gopalganj",
+    "upazilas": [
+      "Kotalipara",
+      "Muksudpur"
+    ]
+  },
+  {
+    "id": "Seat-102",
+    "name": "Gopalganj Seat 102",
+    "division": "Dhaka",
+    "district": "Gopalganj",
+    "upazilas": [
+      "Tungipara"
+    ]
+  },
+  {
+    "id": "Seat-103",
+    "name": "Jamalpur Seat 103",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "upazilas": [
+      "Dewanganj",
+      "Baksiganj"
+    ]
+  },
+  {
+    "id": "Seat-104",
+    "name": "Jamalpur Seat 104",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "upazilas": [
+      "Islampur",
+      "Jamalpur Sadar"
+    ]
+  },
+  {
+    "id": "Seat-105",
+    "name": "Jamalpur Seat 105",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "upazilas": [
+      "Madarganj"
+    ]
+  },
+  {
+    "id": "Seat-106",
+    "name": "Jamalpur Seat 106",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "upazilas": [
+      "Melandaha",
+      "Sarishabari"
+    ]
+  },
+  {
+    "id": "Seat-107",
+    "name": "Jamalpur Seat 107",
+    "division": "Mymensingh",
+    "district": "Jamalpur",
+    "upazilas": [
+      "Narundi Police I.C",
+      "Astagram"
+    ]
+  },
+  {
+    "id": "Seat-108",
+    "name": "Kishoreganj Seat 108",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "upazilas": [
+      "Bajitpur"
+    ]
+  },
+  {
+    "id": "Seat-109",
+    "name": "Kishoreganj Seat 109",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "upazilas": [
+      "Bhairab",
+      "Hossainpur"
+    ]
+  },
+  {
+    "id": "Seat-110",
+    "name": "Kishoreganj Seat 110",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "upazilas": [
+      "Itna",
+      "Karimganj"
+    ]
+  },
+  {
+    "id": "Seat-111",
+    "name": "Kishoreganj Seat 111",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "upazilas": [
+      "Katiadi"
+    ]
+  },
+  {
+    "id": "Seat-112",
+    "name": "Kishoreganj Seat 112",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "upazilas": [
+      "Kishoreganj Sadar",
+      "Kuliarchar"
+    ]
+  },
+  {
+    "id": "Seat-113",
+    "name": "Kishoreganj Seat 113",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "upazilas": [
+      "Mithamain",
+      "Nikli"
+    ]
+  },
+  {
+    "id": "Seat-114",
+    "name": "Kishoreganj Seat 114",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "upazilas": [
+      "Pakundia"
+    ]
+  },
+  {
+    "id": "Seat-115",
+    "name": "Kishoreganj Seat 115",
+    "division": "Dhaka",
+    "district": "Kishoreganj",
+    "upazilas": [
+      "Tarail",
+      "Madaripur Sadar"
+    ]
+  },
+  {
+    "id": "Seat-116",
+    "name": "Madaripur Seat 116",
+    "division": "Dhaka",
+    "district": "Madaripur",
+    "upazilas": [
+      "Kalkini",
+      "Rajoir"
+    ]
+  },
+  {
+    "id": "Seat-117",
+    "name": "Madaripur Seat 117",
+    "division": "Dhaka",
+    "district": "Madaripur",
+    "upazilas": [
+      "Shibchar"
+    ]
+  },
+  {
+    "id": "Seat-118",
+    "name": "Manikganj Seat 118",
+    "division": "Dhaka",
+    "district": "Manikganj",
+    "upazilas": [
+      "Manikganj Sadar",
+      "Singair"
+    ]
+  },
+  {
+    "id": "Seat-119",
+    "name": "Manikganj Seat 119",
+    "division": "Dhaka",
+    "district": "Manikganj",
+    "upazilas": [
+      "Shibalaya"
+    ]
+  },
+  {
+    "id": "Seat-120",
+    "name": "Manikganj Seat 120",
+    "division": "Dhaka",
+    "district": "Manikganj",
+    "upazilas": [
+      "Saturia",
+      "Harirampur"
+    ]
+  },
+  {
+    "id": "Seat-121",
+    "name": "Manikganj Seat 121",
+    "division": "Dhaka",
+    "district": "Manikganj",
+    "upazilas": [
+      "Ghior",
+      "Daulatpur"
+    ]
+  },
+  {
+    "id": "Seat-122",
+    "name": "Munshiganj Seat 122",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "upazilas": [
+      "Lohajang"
+    ]
+  },
+  {
+    "id": "Seat-123",
+    "name": "Munshiganj Seat 123",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "upazilas": [
+      "Sreenagar",
+      "Munshiganj Sadar"
+    ]
+  },
+  {
+    "id": "Seat-124",
+    "name": "Munshiganj Seat 124",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "upazilas": [
+      "Sirajdikhan",
+      "Tongibari"
+    ]
+  },
+  {
+    "id": "Seat-125",
+    "name": "Munshiganj Seat 125",
+    "division": "Dhaka",
+    "district": "Munshiganj",
+    "upazilas": [
+      "Gazaria"
+    ]
+  },
+  {
+    "id": "Seat-126",
+    "name": "Mymensingh Seat 126",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "upazilas": [
+      "Bhaluka",
+      "Trishal"
+    ]
+  },
+  {
+    "id": "Seat-127",
+    "name": "Mymensingh Seat 127",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "upazilas": [
+      "Haluaghat",
+      "Muktagachha"
+    ]
+  },
+  {
+    "id": "Seat-128",
+    "name": "Mymensingh Seat 128",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "upazilas": [
+      "Dhobaura"
+    ]
+  },
+  {
+    "id": "Seat-129",
+    "name": "Mymensingh Seat 129",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "upazilas": [
+      "Fulbaria",
+      "Gaffargaon"
+    ]
+  },
+  {
+    "id": "Seat-130",
+    "name": "Mymensingh Seat 130",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "upazilas": [
+      "Gauripur",
+      "Ishwarganj"
+    ]
+  },
+  {
+    "id": "Seat-131",
+    "name": "Mymensingh Seat 131",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "upazilas": [
+      "Mymensingh Sadar"
+    ]
+  },
+  {
+    "id": "Seat-132",
+    "name": "Mymensingh Seat 132",
+    "division": "Mymensingh",
+    "district": "Mymensingh",
+    "upazilas": [
+      "Nandail",
+      "Phulpur"
+    ]
+  },
+  {
+    "id": "Seat-133",
+    "name": "Narayanganj Seat 133",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilas": [
+      "Araihazar",
+      "Sonargaon"
+    ]
+  },
+  {
+    "id": "Seat-134",
+    "name": "Narayanganj Seat 134",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilas": [
+      "Bandar"
+    ]
+  },
+  {
+    "id": "Seat-135",
+    "name": "Narayanganj Seat 135",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilas": [
+      "Naryanganj Sadar",
+      "Rupganj"
+    ]
+  },
+  {
+    "id": "Seat-136",
+    "name": "Narayanganj Seat 136",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilas": [
+      "Siddirgonj"
+    ]
+  },
+  {
+    "id": "Seat-137",
+    "name": "Narsingdi Seat 137",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "upazilas": [
+      "Belabo",
+      "Monohardi"
+    ]
+  },
+  {
+    "id": "Seat-138",
+    "name": "Narsingdi Seat 138",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "upazilas": [
+      "Narsingdi Sadar",
+      "Palash"
+    ]
+  },
+  {
+    "id": "Seat-139",
+    "name": "Narsingdi Seat 139",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "upazilas": [
+      "Raipura, Narsingdi"
+    ]
+  },
+  {
+    "id": "Seat-140",
+    "name": "Narsingdi Seat 140",
+    "division": "Dhaka",
+    "district": "Narsingdi",
+    "upazilas": [
+      "Shibpur",
+      "Kendua Upazilla"
+    ]
+  },
+  {
+    "id": "Seat-141",
+    "name": "Netrokona Seat 141",
+    "division": "Mymensingh",
+    "district": "Netrokona",
+    "upazilas": [
+      "Atpara Upazilla",
+      "Barhatta Upazilla"
+    ]
+  },
+  {
+    "id": "Seat-142",
+    "name": "Netrokona Seat 142",
+    "division": "Mymensingh",
+    "district": "Netrokona",
+    "upazilas": [
+      "Durgapur Upazilla"
+    ]
+  },
+  {
+    "id": "Seat-143",
+    "name": "Netrokona Seat 143",
+    "division": "Mymensingh",
+    "district": "Netrokona",
+    "upazilas": [
+      "Kalmakanda Upazilla",
+      "Madan Upazilla"
+    ]
+  },
+  {
+    "id": "Seat-144",
+    "name": "Netrokona Seat 144",
+    "division": "Mymensingh",
+    "district": "Netrokona",
+    "upazilas": [
+      "Mohanganj Upazilla",
+      "Netrakona-S Upazilla"
+    ]
+  },
+  {
+    "id": "Seat-145",
+    "name": "Netrokona Seat 145",
+    "division": "Mymensingh",
+    "district": "Netrokona",
+    "upazilas": [
+      "Purbadhala Upazilla"
+    ]
+  },
+  {
+    "id": "Seat-146",
+    "name": "Netrokona Seat 146",
+    "division": "Mymensingh",
+    "district": "Netrokona",
+    "upazilas": [
+      "Khaliajuri Upazilla",
+      "Baliakandi"
+    ]
+  },
+  {
+    "id": "Seat-147",
+    "name": "Rajbari Seat 147",
+    "division": "Dhaka",
+    "district": "Rajbari",
+    "upazilas": [
+      "Goalandaghat",
+      "Pangsha"
+    ]
+  },
+  {
+    "id": "Seat-148",
+    "name": "Rajbari Seat 148",
+    "division": "Dhaka",
+    "district": "Rajbari",
+    "upazilas": [
+      "Kalukhali"
+    ]
+  },
+  {
+    "id": "Seat-149",
+    "name": "Rajbari Seat 149",
+    "division": "Dhaka",
+    "district": "Rajbari",
+    "upazilas": [
+      "Rajbari Sadar",
+      "Shariatpur Sadar -Palong"
+    ]
+  },
+  {
+    "id": "Seat-150",
+    "name": "Shariatpur Seat 150",
+    "division": "Dhaka",
+    "district": "Shariatpur",
+    "upazilas": [
+      "Damudya"
+    ]
+  },
+  {
+    "id": "Seat-151",
+    "name": "Shariatpur Seat 151",
+    "division": "Dhaka",
+    "district": "Shariatpur",
+    "upazilas": [
+      "Naria",
+      "Jajira"
+    ]
+  },
+  {
+    "id": "Seat-152",
+    "name": "Shariatpur Seat 152",
+    "division": "Dhaka",
+    "district": "Shariatpur",
+    "upazilas": [
+      "Bhedarganj",
+      "Gosairhat"
+    ]
+  },
+  {
+    "id": "Seat-153",
+    "name": "Sherpur Seat 153",
+    "division": "Mymensingh",
+    "district": "Sherpur",
+    "upazilas": [
+      "Jhenaigati"
+    ]
+  },
+  {
+    "id": "Seat-154",
+    "name": "Sherpur Seat 154",
+    "division": "Mymensingh",
+    "district": "Sherpur",
+    "upazilas": [
+      "Nakla",
+      "Nalitabari"
+    ]
+  },
+  {
+    "id": "Seat-155",
+    "name": "Sherpur Seat 155",
+    "division": "Mymensingh",
+    "district": "Sherpur",
+    "upazilas": [
+      "Sherpur Sadar",
+      "Sreebardi"
+    ]
+  },
+  {
+    "id": "Seat-156",
+    "name": "Tangail Seat 156",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilas": [
+      "Tangail Sadar"
+    ]
+  },
+  {
+    "id": "Seat-157",
+    "name": "Tangail Seat 157",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilas": [
+      "Sakhipur",
+      "Basail"
+    ]
+  },
+  {
+    "id": "Seat-158",
+    "name": "Tangail Seat 158",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilas": [
+      "Madhupur",
+      "Ghatail"
+    ]
+  },
+  {
+    "id": "Seat-159",
+    "name": "Tangail Seat 159",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilas": [
+      "Kalihati"
+    ]
+  },
+  {
+    "id": "Seat-160",
+    "name": "Tangail Seat 160",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilas": [
+      "Nagarpur",
+      "Mirzapur"
+    ]
+  },
+  {
+    "id": "Seat-161",
+    "name": "Tangail Seat 161",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilas": [
+      "Gopalpur",
+      "Delduar"
+    ]
+  },
+  {
+    "id": "Seat-162",
+    "name": "Tangail Seat 162",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilas": [
+      "Bhuapur"
+    ]
+  },
+  {
+    "id": "Seat-163",
+    "name": "Tangail Seat 163",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilas": [
+      "Dhanbari",
+      "Bagerhat Sadar"
+    ]
+  },
+  {
+    "id": "Seat-164",
+    "name": "Bagerhat Seat 164",
+    "division": "Khulna",
+    "district": "Bagerhat",
+    "upazilas": [
+      "Chitalmari",
+      "Fakirhat"
+    ]
+  },
+  {
+    "id": "Seat-165",
+    "name": "Bagerhat Seat 165",
+    "division": "Khulna",
+    "district": "Bagerhat",
+    "upazilas": [
+      "Kachua"
+    ]
+  },
+  {
+    "id": "Seat-166",
+    "name": "Bagerhat Seat 166",
+    "division": "Khulna",
+    "district": "Bagerhat",
+    "upazilas": [
+      "Mollahat",
+      "Mongla"
+    ]
+  },
+  {
+    "id": "Seat-167",
+    "name": "Bagerhat Seat 167",
+    "division": "Khulna",
+    "district": "Bagerhat",
+    "upazilas": [
+      "Morrelganj"
+    ]
+  },
+  {
+    "id": "Seat-168",
+    "name": "Bagerhat Seat 168",
+    "division": "Khulna",
+    "district": "Bagerhat",
+    "upazilas": [
+      "Rampal",
+      "Sarankhola"
+    ]
+  },
+  {
+    "id": "Seat-169",
+    "name": "Chuadanga Seat 169",
+    "division": "Khulna",
+    "district": "Chuadanga",
+    "upazilas": [
+      "Damurhuda",
+      "Chuadanga-S"
+    ]
+  },
+  {
+    "id": "Seat-170",
+    "name": "Chuadanga Seat 170",
+    "division": "Khulna",
+    "district": "Chuadanga",
+    "upazilas": [
+      "Jibannagar"
+    ]
+  },
+  {
+    "id": "Seat-171",
+    "name": "Chuadanga Seat 171",
+    "division": "Khulna",
+    "district": "Chuadanga",
+    "upazilas": [
+      "Alamdanga",
+      "Abhaynagar"
+    ]
+  },
+  {
+    "id": "Seat-172",
+    "name": "Jashore Seat 172",
+    "division": "Khulna",
+    "district": "Jashore",
+    "upazilas": [
+      "Keshabpur",
+      "Bagherpara"
+    ]
+  },
+  {
+    "id": "Seat-173",
+    "name": "Jashore Seat 173",
+    "division": "Khulna",
+    "district": "Jashore",
+    "upazilas": [
+      "Jessore Sadar"
+    ]
+  },
+  {
+    "id": "Seat-174",
+    "name": "Jashore Seat 174",
+    "division": "Khulna",
+    "district": "Jashore",
+    "upazilas": [
+      "Chaugachha",
+      "Manirampur"
+    ]
+  },
+  {
+    "id": "Seat-175",
+    "name": "Jashore Seat 175",
+    "division": "Khulna",
+    "district": "Jashore",
+    "upazilas": [
+      "Jhikargachha",
+      "Sharsha"
+    ]
+  },
+  {
+    "id": "Seat-176",
+    "name": "Jhenaidah Seat 176",
+    "division": "Khulna",
+    "district": "Jhenaidah",
+    "upazilas": [
+      "Jhenaidah Sadar"
+    ]
+  },
+  {
+    "id": "Seat-177",
+    "name": "Jhenaidah Seat 177",
+    "division": "Khulna",
+    "district": "Jhenaidah",
+    "upazilas": [
+      "Maheshpur",
+      "Kaliganj"
+    ]
+  },
+  {
+    "id": "Seat-178",
+    "name": "Jhenaidah Seat 178",
+    "division": "Khulna",
+    "district": "Jhenaidah",
+    "upazilas": [
+      "Kotchandpur",
+      "Shailkupa"
+    ]
+  },
+  {
+    "id": "Seat-179",
+    "name": "Jhenaidah Seat 179",
+    "division": "Khulna",
+    "district": "Jhenaidah",
+    "upazilas": [
+      "Harinakunda"
+    ]
+  },
+  {
+    "id": "Seat-180",
+    "name": "Khulna Seat 180",
+    "division": "Khulna",
+    "district": "Khulna",
+    "upazilas": [
+      "Terokhada",
+      "Batiaghata"
+    ]
+  },
+  {
+    "id": "Seat-181",
+    "name": "Khulna Seat 181",
+    "division": "Khulna",
+    "district": "Khulna",
+    "upazilas": [
+      "Dacope",
+      "Dumuria"
+    ]
+  },
+  {
+    "id": "Seat-182",
+    "name": "Khulna Seat 182",
+    "division": "Khulna",
+    "district": "Khulna",
+    "upazilas": [
+      "Dighalia"
+    ]
+  },
+  {
+    "id": "Seat-183",
+    "name": "Khulna Seat 183",
+    "division": "Khulna",
+    "district": "Khulna",
+    "upazilas": [
+      "Koyra",
+      "Paikgachha"
+    ]
+  },
+  {
+    "id": "Seat-184",
+    "name": "Khulna Seat 184",
+    "division": "Khulna",
+    "district": "Khulna",
+    "upazilas": [
+      "Phultala"
+    ]
+  },
+  {
+    "id": "Seat-185",
+    "name": "Khulna Seat 185",
+    "division": "Khulna",
+    "district": "Khulna",
+    "upazilas": [
+      "Rupsa",
+      "Kushtia Sadar"
+    ]
+  },
+  {
+    "id": "Seat-186",
+    "name": "Kushtia Seat 186",
+    "division": "Khulna",
+    "district": "Kushtia",
+    "upazilas": [
+      "Kumarkhali",
+      "Daulatpur"
+    ]
+  },
+  {
+    "id": "Seat-187",
+    "name": "Kushtia Seat 187",
+    "division": "Khulna",
+    "district": "Kushtia",
+    "upazilas": [
+      "Mirpur"
+    ]
+  },
+  {
+    "id": "Seat-188",
+    "name": "Kushtia Seat 188",
+    "division": "Khulna",
+    "district": "Kushtia",
+    "upazilas": [
+      "Bheramara",
+      "Khoksa"
+    ]
+  },
+  {
+    "id": "Seat-189",
+    "name": "Magura Seat 189",
+    "division": "Khulna",
+    "district": "Magura",
+    "upazilas": [
+      "Magura Sadar",
+      "Mohammadpur"
+    ]
+  },
+  {
+    "id": "Seat-190",
+    "name": "Magura Seat 190",
+    "division": "Khulna",
+    "district": "Magura",
+    "upazilas": [
+      "Shalikha"
+    ]
+  },
+  {
+    "id": "Seat-191",
+    "name": "Magura Seat 191",
+    "division": "Khulna",
+    "district": "Magura",
+    "upazilas": [
+      "Sreepur",
+      "angni"
+    ]
+  },
+  {
+    "id": "Seat-192",
+    "name": "Meherpur Seat 192",
+    "division": "Khulna",
+    "district": "Meherpur",
+    "upazilas": [
+      "Mujib Nagar",
+      "Meherpur-S"
+    ]
+  },
+  {
+    "id": "Seat-193",
+    "name": "Narail Seat 193",
+    "division": "Khulna",
+    "district": "Narail",
+    "upazilas": [
+      "Narail-S Upazilla"
+    ]
+  },
+  {
+    "id": "Seat-194",
+    "name": "Narail Seat 194",
+    "division": "Khulna",
+    "district": "Narail",
+    "upazilas": [
+      "Lohagara Upazilla",
+      "Kalia Upazilla"
+    ]
+  },
+  {
+    "id": "Seat-195",
+    "name": "Satkhira Seat 195",
+    "division": "Khulna",
+    "district": "Satkhira",
+    "upazilas": [
+      "Satkhira Sadar",
+      "Assasuni"
+    ]
+  },
+  {
+    "id": "Seat-196",
+    "name": "Satkhira Seat 196",
+    "division": "Khulna",
+    "district": "Satkhira",
+    "upazilas": [
+      "Debhata"
+    ]
+  },
+  {
+    "id": "Seat-197",
+    "name": "Satkhira Seat 197",
+    "division": "Khulna",
+    "district": "Satkhira",
+    "upazilas": [
+      "Tala",
+      "Kalaroa"
+    ]
+  },
+  {
+    "id": "Seat-198",
+    "name": "Satkhira Seat 198",
+    "division": "Khulna",
+    "district": "Satkhira",
+    "upazilas": [
+      "Kaliganj",
+      "Shyamnagar"
+    ]
+  },
+  {
+    "id": "Seat-199",
+    "name": "Bogura Seat 199",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "upazilas": [
+      "Adamdighi"
+    ]
+  },
+  {
+    "id": "Seat-200",
+    "name": "Bogura Seat 200",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "upazilas": [
+      "Bogra Sadar",
+      "Sherpur"
+    ]
+  },
+  {
+    "id": "Seat-201",
+    "name": "Bogura Seat 201",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "upazilas": [
+      "Dhunat"
+    ]
+  },
+  {
+    "id": "Seat-202",
+    "name": "Bogura Seat 202",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "upazilas": [
+      "Dhupchanchia",
+      "Gabtali"
+    ]
+  },
+  {
+    "id": "Seat-203",
+    "name": "Bogura Seat 203",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "upazilas": [
+      "Kahaloo",
+      "Nandigram"
+    ]
+  },
+  {
+    "id": "Seat-204",
+    "name": "Bogura Seat 204",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "upazilas": [
+      "Sahajanpur"
+    ]
+  },
+  {
+    "id": "Seat-205",
+    "name": "Bogura Seat 205",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "upazilas": [
+      "Sariakandi",
+      "Shibganj"
+    ]
+  },
+  {
+    "id": "Seat-206",
+    "name": "Bogura Seat 206",
+    "division": "Rajshahi",
+    "district": "Bogura",
+    "upazilas": [
+      "Sonatala",
+      "Joypurhat S"
+    ]
+  },
+  {
+    "id": "Seat-207",
+    "name": "Joypurhat Seat 207",
+    "division": "Rajshahi",
+    "district": "Joypurhat",
+    "upazilas": [
+      "Akkelpur"
+    ]
+  },
+  {
+    "id": "Seat-208",
+    "name": "Joypurhat Seat 208",
+    "division": "Rajshahi",
+    "district": "Joypurhat",
+    "upazilas": [
+      "Kalai",
+      "Khetlal"
+    ]
+  },
+  {
+    "id": "Seat-209",
+    "name": "Joypurhat Seat 209",
+    "division": "Rajshahi",
+    "district": "Joypurhat",
+    "upazilas": [
+      "Panchbibi",
+      "Naogaon Sadar"
+    ]
+  },
+  {
+    "id": "Seat-210",
+    "name": "Naogaon Seat 210",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "upazilas": [
+      "Mohadevpur"
+    ]
+  },
+  {
+    "id": "Seat-211",
+    "name": "Naogaon Seat 211",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "upazilas": [
+      "Manda",
+      "Niamatpur"
+    ]
+  },
+  {
+    "id": "Seat-212",
+    "name": "Naogaon Seat 212",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "upazilas": [
+      "Atrai",
+      "Raninagar"
+    ]
+  },
+  {
+    "id": "Seat-213",
+    "name": "Naogaon Seat 213",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "upazilas": [
+      "Patnitala"
+    ]
+  },
+  {
+    "id": "Seat-214",
+    "name": "Naogaon Seat 214",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "upazilas": [
+      "Dhamoirhat",
+      "Sapahar"
+    ]
+  },
+  {
+    "id": "Seat-215",
+    "name": "Naogaon Seat 215",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "upazilas": [
+      "Porsha",
+      "Badalgachhi"
+    ]
+  },
+  {
+    "id": "Seat-216",
+    "name": "Natore Seat 216",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "upazilas": [
+      "Natore Sadar"
+    ]
+  },
+  {
+    "id": "Seat-217",
+    "name": "Natore Seat 217",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "upazilas": [
+      "Baraigram",
+      "Bagatipara"
+    ]
+  },
+  {
+    "id": "Seat-218",
+    "name": "Natore Seat 218",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "upazilas": [
+      "Lalpur"
+    ]
+  },
+  {
+    "id": "Seat-219",
+    "name": "Natore Seat 219",
+    "division": "Rajshahi",
+    "district": "Natore",
+    "upazilas": [
+      "Natore Sadar",
+      "Baraigram"
+    ]
+  },
+  {
+    "id": "Seat-220",
+    "name": "Nawabganj Seat 220",
+    "division": "Rajshahi",
+    "district": "Nawabganj",
+    "upazilas": [
+      "Bholahat",
+      "Gomastapur"
+    ]
+  },
+  {
+    "id": "Seat-221",
+    "name": "Nawabganj Seat 221",
+    "division": "Rajshahi",
+    "district": "Nawabganj",
+    "upazilas": [
+      "Nachole"
+    ]
+  },
+  {
+    "id": "Seat-222",
+    "name": "Nawabganj Seat 222",
+    "division": "Rajshahi",
+    "district": "Nawabganj",
+    "upazilas": [
+      "Nawabganj Sadar",
+      "Shibganj"
+    ]
+  },
+  {
+    "id": "Seat-223",
+    "name": "Pabna Seat 223",
+    "division": "Rajshahi",
+    "district": "Pabna",
+    "upazilas": [
+      "Atgharia",
+      "Bera"
+    ]
+  },
+  {
+    "id": "Seat-224",
+    "name": "Pabna Seat 224",
+    "division": "Rajshahi",
+    "district": "Pabna",
+    "upazilas": [
+      "Bhangura"
+    ]
+  },
+  {
+    "id": "Seat-225",
+    "name": "Pabna Seat 225",
+    "division": "Rajshahi",
+    "district": "Pabna",
+    "upazilas": [
+      "Chatmohar",
+      "Faridpur"
+    ]
+  },
+  {
+    "id": "Seat-226",
+    "name": "Pabna Seat 226",
+    "division": "Rajshahi",
+    "district": "Pabna",
+    "upazilas": [
+      "Ishwardi",
+      "Pabna Sadar"
+    ]
+  },
+  {
+    "id": "Seat-227",
+    "name": "Pabna Seat 227",
+    "division": "Rajshahi",
+    "district": "Pabna",
+    "upazilas": [
+      "Santhia"
+    ]
+  },
+  {
+    "id": "Seat-228",
+    "name": "Pabna Seat 228",
+    "division": "Rajshahi",
+    "district": "Pabna",
+    "upazilas": [
+      "Sujanagar",
+      "Bagha"
+    ]
+  },
+  {
+    "id": "Seat-229",
+    "name": "Rajshahi Seat 229",
+    "division": "Rajshahi",
+    "district": "Rajshahi",
+    "upazilas": [
+      "Bagmara",
+      "Charghat"
+    ]
+  },
+  {
+    "id": "Seat-230",
+    "name": "Rajshahi Seat 230",
+    "division": "Rajshahi",
+    "district": "Rajshahi",
+    "upazilas": [
+      "Durgapur"
+    ]
+  },
+  {
+    "id": "Seat-231",
+    "name": "Rajshahi Seat 231",
+    "division": "Rajshahi",
+    "district": "Rajshahi",
+    "upazilas": [
+      "Godagari",
+      "Mohanpur"
+    ]
+  },
+  {
+    "id": "Seat-232",
+    "name": "Rajshahi Seat 232",
+    "division": "Rajshahi",
+    "district": "Rajshahi",
+    "upazilas": [
+      "Paba",
+      "Puthia"
+    ]
+  },
+  {
+    "id": "Seat-233",
+    "name": "Rajshahi Seat 233",
+    "division": "Rajshahi",
+    "district": "Rajshahi",
+    "upazilas": [
+      "Tanore"
+    ]
+  },
+  {
+    "id": "Seat-234",
+    "name": "Sirajgonj Seat 234",
+    "division": "Rajshahi",
+    "district": "Sirajgonj",
+    "upazilas": [
+      "Sirajganj Sadar",
+      "Belkuchi"
+    ]
+  },
+  {
+    "id": "Seat-235",
+    "name": "Sirajgonj Seat 235",
+    "division": "Rajshahi",
+    "district": "Sirajgonj",
+    "upazilas": [
+      "Chauhali"
+    ]
+  },
+  {
+    "id": "Seat-236",
+    "name": "Sirajgonj Seat 236",
+    "division": "Rajshahi",
+    "district": "Sirajgonj",
+    "upazilas": [
+      "Kamarkhanda",
+      "Kazipur"
+    ]
+  },
+  {
+    "id": "Seat-237",
+    "name": "Sirajgonj Seat 237",
+    "division": "Rajshahi",
+    "district": "Sirajgonj",
+    "upazilas": [
+      "Raiganj",
+      "Shahjadpur"
+    ]
+  },
+  {
+    "id": "Seat-238",
+    "name": "Sirajgonj Seat 238",
+    "division": "Rajshahi",
+    "district": "Sirajgonj",
+    "upazilas": [
+      "Tarash"
+    ]
+  },
+  {
+    "id": "Seat-239",
+    "name": "Sirajgonj Seat 239",
+    "division": "Rajshahi",
+    "district": "Sirajgonj",
+    "upazilas": [
+      "Ullahpara",
+      "Birampur"
+    ]
+  },
+  {
+    "id": "Seat-240",
+    "name": "Dinajpur Seat 240",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "upazilas": [
+      "Birganj",
+      "Biral"
+    ]
+  },
+  {
+    "id": "Seat-241",
+    "name": "Dinajpur Seat 241",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "upazilas": [
+      "Bochaganj"
+    ]
+  },
+  {
+    "id": "Seat-242",
+    "name": "Dinajpur Seat 242",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "upazilas": [
+      "Chirirbandar",
+      "Phulbari"
+    ]
+  },
+  {
+    "id": "Seat-243",
+    "name": "Dinajpur Seat 243",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "upazilas": [
+      "Ghoraghat",
+      "Hakimpur"
+    ]
+  },
+  {
+    "id": "Seat-244",
+    "name": "Dinajpur Seat 244",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "upazilas": [
+      "Kaharole"
+    ]
+  },
+  {
+    "id": "Seat-245",
+    "name": "Dinajpur Seat 245",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "upazilas": [
+      "Khansama",
+      "Dinajpur Sadar"
+    ]
+  },
+  {
+    "id": "Seat-246",
+    "name": "Dinajpur Seat 246",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "upazilas": [
+      "Nawabganj",
+      "Parbatipur"
+    ]
+  },
+  {
+    "id": "Seat-247",
+    "name": "Gaibandha Seat 247",
+    "division": "Rangpur",
+    "district": "Gaibandha",
+    "upazilas": [
+      "Fulchhari"
+    ]
+  },
+  {
+    "id": "Seat-248",
+    "name": "Gaibandha Seat 248",
+    "division": "Rangpur",
+    "district": "Gaibandha",
+    "upazilas": [
+      "Gaibandha sadar",
+      "Gobindaganj"
+    ]
+  },
+  {
+    "id": "Seat-249",
+    "name": "Gaibandha Seat 249",
+    "division": "Rangpur",
+    "district": "Gaibandha",
+    "upazilas": [
+      "Palashbari",
+      "Sadullapur"
+    ]
+  },
+  {
+    "id": "Seat-250",
+    "name": "Gaibandha Seat 250",
+    "division": "Rangpur",
+    "district": "Gaibandha",
+    "upazilas": [
+      "Saghata"
+    ]
+  },
+  {
+    "id": "Seat-251",
+    "name": "Gaibandha Seat 251",
+    "division": "Rangpur",
+    "district": "Gaibandha",
+    "upazilas": [
+      "Sundarganj",
+      "Kurigram Sadar"
+    ]
+  },
+  {
+    "id": "Seat-252",
+    "name": "Kurigram Seat 252",
+    "division": "Rangpur",
+    "district": "Kurigram",
+    "upazilas": [
+      "Nageshwari"
+    ]
+  },
+  {
+    "id": "Seat-253",
+    "name": "Kurigram Seat 253",
+    "division": "Rangpur",
+    "district": "Kurigram",
+    "upazilas": [
+      "Bhurungamari",
+      "Phulbari"
+    ]
+  },
+  {
+    "id": "Seat-254",
+    "name": "Kurigram Seat 254",
+    "division": "Rangpur",
+    "district": "Kurigram",
+    "upazilas": [
+      "Rajarhat",
+      "Ulipur"
+    ]
+  },
+  {
+    "id": "Seat-255",
+    "name": "Kurigram Seat 255",
+    "division": "Rangpur",
+    "district": "Kurigram",
+    "upazilas": [
+      "Chilmari"
+    ]
+  },
+  {
+    "id": "Seat-256",
+    "name": "Kurigram Seat 256",
+    "division": "Rangpur",
+    "district": "Kurigram",
+    "upazilas": [
+      "Rowmari",
+      "Char Rajibpur"
+    ]
+  },
+  {
+    "id": "Seat-257",
+    "name": "Lalmonirhat Seat 257",
+    "division": "Rangpur",
+    "district": "Lalmonirhat",
+    "upazilas": [
+      "Lalmanirhat Sadar",
+      "Aditmari"
+    ]
+  },
+  {
+    "id": "Seat-258",
+    "name": "Lalmonirhat Seat 258",
+    "division": "Rangpur",
+    "district": "Lalmonirhat",
+    "upazilas": [
+      "Kaliganj"
+    ]
+  },
+  {
+    "id": "Seat-259",
+    "name": "Lalmonirhat Seat 259",
+    "division": "Rangpur",
+    "district": "Lalmonirhat",
+    "upazilas": [
+      "Hatibandha",
+      "Patgram"
+    ]
+  },
+  {
+    "id": "Seat-260",
+    "name": "Nilphamari Seat 260",
+    "division": "Rangpur",
+    "district": "Nilphamari",
+    "upazilas": [
+      "Nilphamari Sadar",
+      "Saidpur"
+    ]
+  },
+  {
+    "id": "Seat-261",
+    "name": "Nilphamari Seat 261",
+    "division": "Rangpur",
+    "district": "Nilphamari",
+    "upazilas": [
+      "Jaldhaka"
+    ]
+  },
+  {
+    "id": "Seat-262",
+    "name": "Nilphamari Seat 262",
+    "division": "Rangpur",
+    "district": "Nilphamari",
+    "upazilas": [
+      "Kishoreganj",
+      "Domar"
+    ]
+  },
+  {
+    "id": "Seat-263",
+    "name": "Nilphamari Seat 263",
+    "division": "Rangpur",
+    "district": "Nilphamari",
+    "upazilas": [
+      "Dimla",
+      "Panchagarh Sadar"
+    ]
+  },
+  {
+    "id": "Seat-264",
+    "name": "Panchagarh Seat 264",
+    "division": "Rangpur",
+    "district": "Panchagarh",
+    "upazilas": [
+      "Debiganj"
+    ]
+  },
+  {
+    "id": "Seat-265",
+    "name": "Panchagarh Seat 265",
+    "division": "Rangpur",
+    "district": "Panchagarh",
+    "upazilas": [
+      "Boda",
+      "Atwari"
+    ]
+  },
+  {
+    "id": "Seat-266",
+    "name": "Panchagarh Seat 266",
+    "division": "Rangpur",
+    "district": "Panchagarh",
+    "upazilas": [
+      "Tetulia",
+      "Badarganj"
+    ]
+  },
+  {
+    "id": "Seat-267",
+    "name": "Rangpur Seat 267",
+    "division": "Rangpur",
+    "district": "Rangpur",
+    "upazilas": [
+      "Mithapukur"
+    ]
+  },
+  {
+    "id": "Seat-268",
+    "name": "Rangpur Seat 268",
+    "division": "Rangpur",
+    "district": "Rangpur",
+    "upazilas": [
+      "Gangachara",
+      "Kaunia"
+    ]
+  },
+  {
+    "id": "Seat-269",
+    "name": "Rangpur Seat 269",
+    "division": "Rangpur",
+    "district": "Rangpur",
+    "upazilas": [
+      "Rangpur Sadar"
+    ]
+  },
+  {
+    "id": "Seat-270",
+    "name": "Rangpur Seat 270",
+    "division": "Rangpur",
+    "district": "Rangpur",
+    "upazilas": [
+      "Pirgachha",
+      "Pirganj"
+    ]
+  },
+  {
+    "id": "Seat-271",
+    "name": "Rangpur Seat 271",
+    "division": "Rangpur",
+    "district": "Rangpur",
+    "upazilas": [
+      "Taraganj",
+      "Thakurgaon Sadar"
+    ]
+  },
+  {
+    "id": "Seat-272",
+    "name": "Thakurgaon Seat 272",
+    "division": "Rangpur",
+    "district": "Thakurgaon",
+    "upazilas": [
+      "Pirganj"
+    ]
+  },
+  {
+    "id": "Seat-273",
+    "name": "Thakurgaon Seat 273",
+    "division": "Rangpur",
+    "district": "Thakurgaon",
+    "upazilas": [
+      "Baliadangi",
+      "Haripur"
+    ]
+  },
+  {
+    "id": "Seat-274",
+    "name": "Thakurgaon Seat 274",
+    "division": "Rangpur",
+    "district": "Thakurgaon",
+    "upazilas": [
+      "Ranisankail",
+      "Ajmiriganj"
+    ]
+  },
+  {
+    "id": "Seat-275",
+    "name": "Habiganj Seat 275",
+    "division": "Sylhet",
+    "district": "Habiganj",
+    "upazilas": [
+      "Baniachang"
+    ]
+  },
+  {
+    "id": "Seat-276",
+    "name": "Habiganj Seat 276",
+    "division": "Sylhet",
+    "district": "Habiganj",
+    "upazilas": [
+      "Bahubal",
+      "Chunarughat"
+    ]
+  },
+  {
+    "id": "Seat-277",
+    "name": "Habiganj Seat 277",
+    "division": "Sylhet",
+    "district": "Habiganj",
+    "upazilas": [
+      "Habiganj Sadar",
+      "Lakhai"
+    ]
+  },
+  {
+    "id": "Seat-278",
+    "name": "Habiganj Seat 278",
+    "division": "Sylhet",
+    "district": "Habiganj",
+    "upazilas": [
+      "Madhabpur"
+    ]
+  },
+  {
+    "id": "Seat-279",
+    "name": "Habiganj Seat 279",
+    "division": "Sylhet",
+    "district": "Habiganj",
+    "upazilas": [
+      "Nabiganj",
+      "Shaistagonj"
+    ]
+  },
+  {
+    "id": "Seat-280",
+    "name": "Maulvibazar Seat 280",
+    "division": "Sylhet",
+    "district": "Maulvibazar",
+    "upazilas": [
+      "Moulvibazar Sadar",
+      "Barlekha"
+    ]
+  },
+  {
+    "id": "Seat-281",
+    "name": "Maulvibazar Seat 281",
+    "division": "Sylhet",
+    "district": "Maulvibazar",
+    "upazilas": [
+      "Juri"
+    ]
+  },
+  {
+    "id": "Seat-282",
+    "name": "Maulvibazar Seat 282",
+    "division": "Sylhet",
+    "district": "Maulvibazar",
+    "upazilas": [
+      "Kamalganj",
+      "Kulaura"
+    ]
+  },
+  {
+    "id": "Seat-283",
+    "name": "Maulvibazar Seat 283",
+    "division": "Sylhet",
+    "district": "Maulvibazar",
+    "upazilas": [
+      "Rajnagar",
+      "Sreemangal"
+    ]
+  },
+  {
+    "id": "Seat-284",
+    "name": "Sunamganj Seat 284",
+    "division": "Sylhet",
+    "district": "Sunamganj",
+    "upazilas": [
+      "Bishwamvarpur"
+    ]
+  },
+  {
+    "id": "Seat-285",
+    "name": "Sunamganj Seat 285",
+    "division": "Sylhet",
+    "district": "Sunamganj",
+    "upazilas": [
+      "Chhatak",
+      "Derai"
+    ]
+  },
+  {
+    "id": "Seat-286",
+    "name": "Sunamganj Seat 286",
+    "division": "Sylhet",
+    "district": "Sunamganj",
+    "upazilas": [
+      "Dharampasha"
+    ]
+  },
+  {
+    "id": "Seat-287",
+    "name": "Sunamganj Seat 287",
+    "division": "Sylhet",
+    "district": "Sunamganj",
+    "upazilas": [
+      "Dowarabazar",
+      "Jagannathpur"
+    ]
+  },
+  {
+    "id": "Seat-288",
+    "name": "Sunamganj Seat 288",
+    "division": "Sylhet",
+    "district": "Sunamganj",
+    "upazilas": [
+      "Jamalganj",
+      "Sulla"
+    ]
+  },
+  {
+    "id": "Seat-289",
+    "name": "Sunamganj Seat 289",
+    "division": "Sylhet",
+    "district": "Sunamganj",
+    "upazilas": [
+      "Sunamganj Sadar"
+    ]
+  },
+  {
+    "id": "Seat-290",
+    "name": "Sunamganj Seat 290",
+    "division": "Sylhet",
+    "district": "Sunamganj",
+    "upazilas": [
+      "Shanthiganj",
+      "Tahirpur"
+    ]
+  },
+  {
+    "id": "Seat-291",
+    "name": "Sylhet Seat 291",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "upazilas": [
+      "Sylhet Sadar",
+      "Beanibazar"
+    ]
+  },
+  {
+    "id": "Seat-292",
+    "name": "Sylhet Seat 292",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "upazilas": [
+      "Bishwanath"
+    ]
+  },
+  {
+    "id": "Seat-293",
+    "name": "Sylhet Seat 293",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "upazilas": [
+      "Dakshin Surma",
+      "Balaganj"
+    ]
+  },
+  {
+    "id": "Seat-294",
+    "name": "Sylhet Seat 294",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "upazilas": [
+      "Companiganj",
+      "Fenchuganj"
+    ]
+  },
+  {
+    "id": "Seat-295",
+    "name": "Sylhet Seat 295",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "upazilas": [
+      "Golapganj"
+    ]
+  },
+  {
+    "id": "Seat-296",
+    "name": "Sylhet Seat 296",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "upazilas": [
+      "Gowainghat",
+      "Jointapur"
+    ]
+  },
+  {
+    "id": "Seat-297",
+    "name": "Sylhet Seat 297",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "upazilas": [
+      "Kanaighat",
+      "Zakiganj"
+    ]
+  },
+  {
+    "id": "Seat-298",
+    "name": "Sylhet Seat 298",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "upazilas": [
+      "Nobigonj"
+    ]
+  },
+  {
+    "id": "Seat-299",
+    "name": "Cox's Bazar Seat 299",
+    "division": "Chattogram",
+    "district": "Cox's Bazar",
+    "upazilas": [
+      "Eidgaon",
+      "Modhyanagar"
+    ]
+  },
+  {
+    "id": "Seat-300",
+    "name": "Madaripur Seat 300",
+    "division": "Dhaka",
+    "district": "Madaripur",
+    "upazilas": [
+      "Dasar"
+    ]
+  }
+]
